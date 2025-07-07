@@ -1,1 +1,20 @@
-# api-usuarios-3f5fa05a-1ece-4bd7-a995-873911fd3bf9
+# api-usuarios
+
+## Descrição
+# Documentação da API FastAPI para Usuários
+
+## Instalação
+1. Clone o repositório
+2. Instale as dependências:
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+## Uso
+Execute o servidor:
+```bash
+uvicorn src.main:app --reload
+```
+
+## Documentação
+Consulte a pasta `docs` para a documentação completa do projeto.
